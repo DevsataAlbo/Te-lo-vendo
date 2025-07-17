@@ -7,7 +7,7 @@ Sitio web estático para "Te lo Vendo", un emprendimiento joven especializado en
 ### Opción 1: Abrir directamente
 ```bash
 # Clonar o descargar el proyecto
-git clone [URL-DEL-REPOSITORIO]
+git clone https://github.com/DevsataAlbo/Te-lo-vendo.git
 
 # Navegar al directorio
 cd te-lo-vendo
